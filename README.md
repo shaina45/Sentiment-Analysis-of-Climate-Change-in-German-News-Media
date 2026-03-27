@@ -1,6 +1,7 @@
 **Project Name:** Sentiment Analysis of Climate Change in German News Media using NLP and LLM models
 
-**Overview of Project:** This project aims to scrap the metadata from the 6 most famous and widely used german news websites
+**Overview of Project:** 
+This project aims to scrap the metadata from the 6 most famous and widely used german news websites
 (Welt, Die Zeit, Spiegel, Sud Deutsche Zeitung, FAZ and B.Z.) by building custom scrappers for each website.After reviewing of
 literatures, three main research gaps were discovered firstly, no hybrid pipeline for sentiment and framing analysis. Moreover, 
 limited actors framing analysis was done. Lastly, limited computational quantative analysis done on this.
